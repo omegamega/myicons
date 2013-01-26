@@ -140,6 +140,6 @@ myicons
 77. プリングルス
   * ![](https://raw.github.com/omegamega/myicons/master/icons/20121104_icon_rev_pringles.png)
 78. ようせいさん(人類は衰退しました)
-  * ![](https://raw.github.com/omegamega/myicons/master/icons/20121403_icon_rev_youseisan_l.png)
+  * ![](https://raw.github.com/omegamega/myicons/master/icons/20121403_icon_rev_youseisan.png)
 79. Xpeira Go
   * ![](https://raw.github.com/omegamega/myicons/master/icons/20130127_icon_xperia_go.png)
