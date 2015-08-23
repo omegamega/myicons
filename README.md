@@ -135,11 +135,15 @@ myicons
   * ![](https://raw.github.com/omegamega/myicons/master/icons/20120214_icon_rev_graphig.png)
 75. アイドルマスター・シンデレラガールズのカード
   * ![](https://raw.github.com/omegamega/myicons/master/icons/20120422_icon_rev_mogemas.png)
-76. 立体化
-  * ![](https://raw.github.com/omegamega/myicons/master/icons/20120618_icon_rev_3d.png)
+76. フルスクラッチ立体化
+  * <img src="https://raw.github.com/omegamega/myicons/master/icons/20120618_icon_rev_3d.png" width="96px" height="96px"/>
 77. プリングルス
   * ![](https://raw.github.com/omegamega/myicons/master/icons/20121104_icon_rev_pringles.png)
 78. ようせいさん(人類は衰退しました)
   * ![](https://raw.github.com/omegamega/myicons/master/icons/20121403_icon_rev_youseisan.png)
 79. Xpeira Go
   * ![](https://raw.github.com/omegamega/myicons/master/icons/20130127_icon_xperia_go.png)
+80. プラモブロック
+  * <img src="https://raw.github.com/omegamega/myicons/master/icons/20140129_icon_plamoblock.png" width="96px" height="96px"/>
+81. IJN巡洋艦？モチーフなし(艦隊これくしょん/World of Warships)
+  * ![](https://raw.github.com/omegamega/myicons/master/icons/20150823_icon_rev_wows.png)
